@@ -17,7 +17,42 @@ nav a:hover {      /* psuedo class */
     font-size: 2em;
     transition: .9s;         /*transition effect */
 }
+
+nav .active {
+    background-color: #112e51;
+    color: white;
+    border-bottom: 2px orange solid;
+}
 main {
     display: flex;
     justify-content: center;
+}
+
+footer {
+    font-size: 12px;
+    color: #112e51;
+}
+table {
+    margin: 0px auto;
+}
+td {
+    padding-right: 10px;
+    font-size: 1.3em;
+}
+td strong {
+    color: orange;
+}
+#table-header {
+    background-color: #351a00;
+}
+.table-row {
+    background-color: #753900;
+}
+ul {
+    width: 500px;
+    margin: 0 auto;
+    text-align: left;
+}
+.hobby {
+    color: yellow;
 }
