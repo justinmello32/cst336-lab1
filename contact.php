@@ -47,7 +47,9 @@ in html
             CST336 Internet Programming. 2020&copy; Mello <br />
             <strong>Disclaimer:</strong> The information in this webpage is fictitious. <br />
             It is used for academic purposes only.
-            <img src="img/csumb-round.png">
+            <div>
+                <img src="img/csumb-logo.png">
+            </div>
         </footer>
         <!-- closing footer -->
     </body>
